@@ -1,0 +1,67 @@
+Python Week 4 Exercises
+Exercises
+
+Answer the questions or complete the tasks outlined in bold below, use the specific method described if applicable.
+1. What is 3 to the power of 5?
+
+2. Split this string:
+s = "Hi there Bob!"
+into a list.
+['Hi', 'there', 'Bob!']
+
+In [3]: s = "Hi there Bob!"
+In [ ]:
+In [ ]:
+
+3. Given this nested list, use indexing to grab the word "hi"
+
+In [6]: myList = [3,2,[3,1],[1,[1,2,['hi']],37,2],1,2]
+In [ ]:
+In [ ]:
+
+4. What is the main difference between a tuple and a list?
+In [ ]:
+In [ ]:
+
+5.Create a function that accepts email address as a parameter and return domain name.
+For example, passing "ferdi.eruysal@tamuct.edu" would return: tamuct.edu
+In [ ]:
+In [ ]:
+In [ ]:
+In [ ]:
+
+6. Create a basic function that returns True if the word 'cat' is in the input string.If the word "cat" is not in the string, it should return False
+In [ ]:
+In [ ]:
+In [ ]:
+
+7. Create a function that counts the number of times the word "cat" shows up in a string. Note that this is very difficult question
+In [ ]:
+In [ ]:
+In [ ]:
+
+8. Use lambda expressions and the filter() function to filter out words from a list that don't start with the letter 'a'. For example:
+
+myList = ['adam','aaron','beatrice','adela','elaine']
+should be filtered down to:
+
+['adam','aaron','adela']
+Note that this is very difficult question
+
+In [7]: myList = ['adam','aaron','beatrice','adela','elaine']
+In [ ]:
+In [ ]:
+
+9. You are driving fast, and a police officer stops you. Write a function to return one of 3 possible results:
+
+Warning
+
+\$100 fine
+
+\$300 fine
+
+If your speed is 75 or less, the result is 'Warning'. If speed is between 76 and 90 inclusive, the result is '\$100 fine'. 
+If speed is 91 or more, the result is '\$300 fine' .
+In [36]:
+In [ ]:
+In [ ]:
